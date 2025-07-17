@@ -2,6 +2,8 @@
 
 Proyecto educativo donde controlaremos un rover lunar ... o marciano
 
+![](./images/banner_mooncamp_microbit.png)]
+
 Julio 2025
 
 ![](./images/Licencia_CC.png)
